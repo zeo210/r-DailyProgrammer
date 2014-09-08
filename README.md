@@ -1,4 +1,7 @@
-r-DailyProgrammer
-=================
+# r/DailyProgrammer solutions
 
-A repository of my solutions for Daily Progammer challenges on Reddit.
+This is a repository of my solutions to the Daily Progammer challenges on Reddit.
+
+-----------------------
+
+### Table of Contents
